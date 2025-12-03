@@ -21,7 +21,7 @@ const statusBadge = (status: string) => {
     <div class="flex justify-between items-center flex-wrap gap-6">
       <h2 class="text-4xl font-bold text-primary">جميع طلبات التصاريح</h2>
       <NuxtLink to="/apply"
-                class="bg-primary hover:bg-[#004d25] hover:text-white text-[#004d25] px-8 py-5 rounded-xl text-xl font-bold shadow-lg transition">
+                class="bg-primary hover:bg-[#1B8354] hover:text-white text-[#1B8354] px-8 py-5 rounded-xl text-xl font-bold shadow-lg transition">
         تقديم طلب جديد
       </NuxtLink>
     </div>
